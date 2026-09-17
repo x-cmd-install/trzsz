@@ -35,7 +35,7 @@ Total: **2,625** lines of code across **34** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,451 · **Forks**: 63 · **Open issues**: 68 · **Contributors**: 1
+- **Stars**: 1,452 · **Forks**: 63 · **Open issues**: 68 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **2,625** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 2 | 0 | 0 | 1 | 0 | 2 |
-| last60d | 2026-07-18 | 2 | 1 | 0 | 1 | 0 | 9 |
-| 90d | 2026-06-18 | 2 | 1 | 0 | 1 | 0 | 9 |
-| last180d | 2026-03-20 | 2 | 1 | 0 | 1 | 0 | 9 |
-| 360d | 2025-09-21 | 2 | 1 | 0 | 4 | 0 | 9 |
-| last720d | 2024-09-26 | 2 | 1 | 0 | 16 | 0 | 9 |
+| 30d | 2026-08-18 | 2 | 0 | 0 | 1 | 0 | 2 |
+| last60d | 2026-07-19 | 2 | 1 | 0 | 1 | 0 | 9 |
+| 90d | 2026-06-19 | 2 | 1 | 0 | 1 | 0 | 9 |
+| last180d | 2026-03-21 | 2 | 1 | 0 | 1 | 0 | 9 |
+| 360d | 2025-09-22 | 2 | 1 | 0 | 4 | 0 | 9 |
+| last720d | 2024-09-27 | 2 | 1 | 0 | 16 | 0 | 9 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for trzsz lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:41:42Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:41:10Z._
